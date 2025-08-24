@@ -9,7 +9,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me  
 - 🎓 **Mechatronics Engineering Graduate** from Egypt Japan University 
-- 💡 Passionate about **Embedded systems, Control sysytems**  
+- 💡 Passionate about **Embedded systems, Control systems**  
 - 🌱 Currently learning **C++**   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 - 📩 How to reach me: **Youssefhussein03@yahoo.com**  
 
